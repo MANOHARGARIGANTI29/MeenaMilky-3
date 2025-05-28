@@ -63,7 +63,7 @@ body {
 
 .sliver {
     height: 900px;
-    background-image: url(./image/whatsapp1.jpeg);
+    background-image: url(./public/image/whatsapp1.jpeg);
     background-size: cover;
     background-position: 0 -100px;
 }
@@ -170,29 +170,29 @@ body {
 }
 
 .grid-items .man {
-    background-image: url(./image/whatsapp2.jpeg);
+    background-image: url(./public/image/whatsapp2.jpeg);
 }
 
 .grid-items .woman {
-    background-image: url(./image/whatsapp3.jpeg);
+    background-image: url(./public/image/whatsapp3.jpeg);
 }
 
 .grid-items .first-story {
-    background-image: url(./image/whatsapp12.jpeg);
+    background-image: url(./public/image/whatsapp12.jpeg);
 }
 
 .grid-items .second-story {
-    background-image: url(./image/whatsapp5.jpeg);
+    background-image: url(./public/image/whatsapp5.jpeg);
 }
 
 .grid-items .third-story {
-    background-image: url(./image/whatsapp7.jpeg);
+    background-image: url(./public/image/whatsapp7.jpeg);
 }
 
 .pics-layout {
     width: 300px;
     height: 300px;
-    background-image: url(./image/whatsapp10.jpeg);
+    background-image: url(./public/image/whatsapp10.jpeg);
     background-size: cover;
     background-position: center;
     border-radius: 100%;
@@ -351,43 +351,43 @@ body {
 }
 
 .gallery-container .first-pics {
-    background-image: url(./image/whatsaapp13.jpeg);
+    background-image: url(./public/image/whatsaapp13.jpeg);
     
 }
 
 .gallery-container .second-pics {
-    background-image: url(./image/whatsapp15.jpeg);
+    background-image: url(./public/image/whatsapp15.jpeg);
 }
 
 .gallery-container .third-pics {
-    background-image: url(./image/whatsapp8.jpeg);
+    background-image: url(./public/image/whatsapp8.jpeg);
 }
 
 .gallery-container .fourth-pics {
-    background-image: url(./image/whatsapp21.jpeg);
+    background-image: url(./public/image/whatsapp21.jpeg);
     background-position: -50px 0;
 }
 
 .gallery-container .fifth-pics {
-    background-image: url(./image/whatsapp22.jpeg);
+    background-image: url(./public/image/whatsapp22.jpeg);
 }
 
 .gallery-container .sixth-pics {
-    background-image: url(./image/whatsapp23.jpeg);
+    background-image: url(./public/image/whatsapp23.jpeg);
 }
 
 .gallery-container .seventh-pics {
-    background-image: url(./image/whatsapp9.jpeg);
+    background-image: url(./public/image/whatsapp9.jpeg);
     background-position: 30px 0;
 
 }
 
 .gallery-container .eighth-pics {
-    background-image: url(./image/whatsapp12.jpeg);
+    background-image: url(./public/image/whatsapp12.jpeg);
 }
 
 .gallery-container .nineth-pics {
-    background-image: url(./image/whatsapp4.jpeg);
+    background-image: url(./public/image/whatsapp4.jpeg);
 }
 .thank-you-note {
   max-width: 600px;
